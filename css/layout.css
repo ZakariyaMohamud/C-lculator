@@ -32,7 +32,7 @@ body{
     border: none;
     text-align: left   ;
     background-color: hsl(0, 0%, 20%);
-
+    color:white;
 
 }
 
@@ -66,4 +66,10 @@ button{
 button:hover{
      background-color: hsl(0, 0%, 50%);
 
+}
+button:active{
+    background-color: hsl(0, 0%, 60%); ;
+}
+.operator-btn{
+    background-color:orange;
 }
